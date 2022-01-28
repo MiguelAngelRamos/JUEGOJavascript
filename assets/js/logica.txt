@@ -1,0 +1,6 @@
+1- Jugadores
+2- Cartas (barajar las cartas)
+3- Las reglas (definir el juego)
+4- Definir el turno
+5- Indentificamos al ganador
+6- Finalizamos el juego

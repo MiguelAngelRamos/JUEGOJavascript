@@ -1,0 +1,39 @@
+body {
+  color: white;
+  background-image: url("../img/mesa/mesa1.jpg");
+  font-family: 'Anton', sans-serif;
+}
+
+.title {
+  background-color: rgba(0,0,0,0.733);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 28px;
+}
+
+.score {
+  border: 2px solid white;
+  border-radius: 10px;
+  font-size: 25px;
+  width: 280px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.img-card {
+  position: relative;
+  left: 80px;
+  width: 150px;
+  margin-right: 10px;
+}
+
+.divCards {
+  height: 240px;
+}
+
+small {
+  margin-left: 10px;
+  font-size: 26px;
+  font-weight: 700;
+}
